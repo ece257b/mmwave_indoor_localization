@@ -428,8 +428,7 @@ class SimpleNNLocalizer:
         plt.xlim([0, 400])
 
 def main():
-    np.random.seed(42)
-    tf.random.set_seed(42)
+
 
 
     ap_positions = []
